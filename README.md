@@ -25,10 +25,9 @@ The data has been sourced from Kaggle :https://www.kaggle.com/littleotter/united
 
 ### Key Analysis Points:
 * Topics Modeling
-![Topics](https://github.com/anubhavpar/Project-4/blob/main/Sentiment%20Analysis/Images/President-all.png)
-
+![Topics](https://github.com/anubhavpar/Project-4/blob/main/Sentiment%20Analysis/Images/Topics.png)
 * Sentiment Analysis 
-![Sentiment Analysis](http://localhost:8889/lab/tree/Desktop/Metis/project_4/Project-4/Sentiment%20Analysis/Images/President-all.png)
+![Sentiment Analysis](https://github.com/anubhavpar/Project-4/blob/main/Sentiment%20Analysis/Images/President-all.png)
 
 ### Sources to look at:
 
