@@ -29,7 +29,7 @@ The data has been sourced from Kaggle :https://www.kaggle.com/littleotter/united
 * Sentiment Analysis 
 ![Sentiment Analysis](https://github.com/anubhavpar/Project-4/blob/main/Sentiment%20Analysis/Images/President-all.png)
 
-### Sources to look at:
+### Reference:
 
 * https://datayo.org/p/stories/8t0a_WslB_NkaYwz/unpacking-russian-presidential-speech-patterns-with-machine-learning
 * https://www.expert.ai/blog/president-biden-inaugural-address-a-linguistic-analysis
