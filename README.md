@@ -1,30 +1,36 @@
 # Project-4
 Git Repository for Metis Project -4 
 
-Problem Statement : To analyze the speech of presidents with the context of a political event. 
+### Inspiration behind this project:
+Analyze the history of America by analyzing the trends from the speeches of Presidents. I performed topic modeling and then walked back in time to connect the topics with the relevant historical context.   
 
-Inspiration behind this project:
+### Key questions:
+* Which all topics I could model based on the data. 
+* Polarity/Subjectivity analysis of the President Speeches.
 
-* How have political parties changed over the course of American History?
-* What subjects or topics have different eras focused on with respect to parties or individual presidents?
-* How do presidential speeches tones change throughout history with respect to events such as war, civil rights, ect.
+### Files : 
 
+* Project-4.ipynb - This has all the code that I have used as part of project -4. 
+* Metis Project -4_Final.pdf - Presentation.
 
-Timelines for my project : 
+### Tools :
 
-* Trend analysis of Presidents  - 18th
-* Trends to be analyzed 
-- Most number of speeches 
-- Most common words 
-- 
-- Look at using Neural Networks
-* Key Topics and analysis across time - 18th 
-* Pick Two presidents -  Trend Analysis - 19th and 20th, 21st 
-* Create the UI and Speech Generator - 22nd, 23rd 
-* Refining - 24th, 25th 
-* Chatbot(if time permits) + Presentation - 25th 
+* Pandas 
+* Tableau
+* IBM ToneAnalyzer V3
 
-Sources to look at:
+### Data Source : 
+
+The data has been sourced from Kaggle :https://www.kaggle.com/littleotter/united-states-presidential-speeches. It has the presidential speeches until September 9th, 2019. There are around 992 speeches which range from 1789-04-30 to 2019-09-25 .
+
+### Key Analysis Points:
+* Topics Modeling
+![Topics](http://localhost:8889/lab/tree/Desktop/Metis/project_4/Project-4/Sentiment%20Analysis/Images/Topics.png)
+
+* Sentiment Analysis 
+![Sentiment Analysis](http://localhost:8889/lab/tree/Desktop/Metis/project_4/Project-4/Sentiment%20Analysis/Images/President-all.png)
+
+### Sources to look at:
 
 * https://datayo.org/p/stories/8t0a_WslB_NkaYwz/unpacking-russian-presidential-speech-patterns-with-machine-learning
 * https://www.expert.ai/blog/president-biden-inaugural-address-a-linguistic-analysis
@@ -32,10 +38,6 @@ Sources to look at:
 * https://towardsdatascience.com/us-presidential-voices-over-the-ages-35678518f82b
 
 
-
-GIT HUB Sources:
-
-* 
 
 
 
